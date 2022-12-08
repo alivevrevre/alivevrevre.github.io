@@ -4,7 +4,7 @@ This is my home page! My name is ALex Trang and I am a student at [Cal State Ful
 
 ## Computer Science Projects
 
-My GitHub page is alivevrevre.
+My GitHub page is http://github.com/alivevrevre.
 
 ### CPSC 120
 
